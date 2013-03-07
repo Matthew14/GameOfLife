@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>E18.mp3</Source>
+      <Name>E18</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\bin\x86\Debug\Content\E18.xnb</Output>
+      <Extra>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\bin\x86\Debug\Content\E18.wma</Extra>
+      <Time>2013-01-29T15:55:19.3701653+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseButton.spritefont</Source>
+      <Name>pauseButton</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\bin\x86\Debug\Content\pauseButton.xnb</Output>
+      <Time>2013-01-29T18:16:39.3508141+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sound.wav</Source>
+      <Name>sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\bin\x86\Debug\Content\sound.xnb</Output>
+      <Time>2013-01-29T21:14:26.9403765+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8A1B7EC6-E3BF-4378-A95D-37A9E520E7E7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Google Drive\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\Assignment1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-08T22:57:00.8270993+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
